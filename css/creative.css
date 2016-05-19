@@ -52,7 +52,8 @@ p {
 }
 
 .bg-primary {
-    background-color: #f05f40;
+    /* wesley: chagne to match Atriva Logo orange color */
+    background-color: #ec6518; /* #f05f40; original */
 }
 
 .bg-dark {
